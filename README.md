@@ -35,9 +35,9 @@ To distribute this project:
 This tool is based on research conducted for the paper titled "Improving The Hiding Capacity of Image Steganography with Stego-Analysis" presented at the 2023 IEEE International Conference on Integrated Circuits and Communication Systems. The authors include:
 - **Padmaja Grandhe**
 - **A.Mallikarjuna Reddy**
+- **Manasa Thambabathula**
 - **Kavyasri Chillapalli**
 - **Kavya Koppera**
-- **Manasa Thambabathula**
 - **L P Reddy Surasani**
 
 ## Citation
